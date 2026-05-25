@@ -1,5 +1,20 @@
-# Welcome to GitHub Desktop!
+# Crowd Counting Using YOLOv8 Deep Learning
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Description
+This project performs object detection using the COCO dataset.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Technologies Used
+- Python
+- OpenCV
+- YOLO
+
+## Dataset
+COCO Dataset
+
+## Files
+- code.py → main project code
+- dataset.png → dataset labels/classes image
+- screenshots/ → output screenshots
+
+## How to Run
+python code.py
